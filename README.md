@@ -21,4 +21,4 @@ I am passionate about learning new technologies and I like to take up challenges
 
 For more details or any issue:
 - My Portfolio
-- [My resume](https://github.com/Domeshow/DOmeshow)
+- [My resume](https://github.com/Domeshow/Domeshow)
