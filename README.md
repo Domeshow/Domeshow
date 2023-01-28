@@ -14,7 +14,7 @@ I am passionate about learning new technologies and I like to take up challenges
 
 ![Domeshow's github stats](https://github-readme-stats.vercel.app/api?username=Domeshow&show_icons=true&hide_border=true)
 
-! [] ( https://github-readme-stats.vercel.app/api/top-langs/?username=johnkeychishugi&layout=compact )
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Domeshow&layout=compact)
 
 ---
 ### Reach me
